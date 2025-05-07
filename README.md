@@ -1,8 +1,5 @@
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
-<h1 align="center">Hi 👋, I'm Yoshiaki Yokoyama</h1>
-<h3 align="center">A passionate & aspiring software engineer</h3>
+
+<h1 align="center">Hi 👋, I'm a FullStack developer</h1>
 
 <p>A highly skilled and versatile full-stack developer with expertise in modern front-end and back-end technologies. With a passion for building dynamic, user-centric applications, this developer excels at creating scalable and efficient web solutions. Combining proficiency in JavaScript frameworks like React.js, Next.js, Vue, and Nuxt.js with solid back-end development skills in Python frameworks such as Django, Flask, and FastAPI, they bring a holistic approach to software development.</p>
 
