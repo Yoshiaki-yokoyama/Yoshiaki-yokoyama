@@ -62,8 +62,7 @@
 
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/Yoshiaki-yokoyama/](https://github.com/Yoshiaki-yokoyama/)
-- 📫 How to reach me, drop an email at **yoshiakiyokoyama85@outlook.com**
+[https://github.com/myLife107/](https://github.com/myLife107/)
 - 👍 Thanks for visiting my profile. Follow me to get all the updates about my repositories and my open source works.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levintech&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
@@ -71,5 +70,3 @@
 <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
 </div>
-
-Credit: [Yoshiaki-yokoyama](https://github.com/Yoshiaki-yokoyama)
